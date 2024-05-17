@@ -1,0 +1,2 @@
+# sql_performance_note
+SQLパフォーマンス詳解のまとめノート
